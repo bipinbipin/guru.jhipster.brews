@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/bipinbipin/guru.jhipster.brews.svg?style=svg)](https://circleci.com/gh/bipinbipin/guru.jhipster.brews)
+
 # brews
 This application was generated using JHipster 4.10.2, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.10.2](http://www.jhipster.tech/documentation-archive/v4.10.2).
 
