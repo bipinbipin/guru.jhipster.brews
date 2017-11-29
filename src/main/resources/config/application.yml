@@ -53,8 +53,8 @@ spring:
 
         # see https://developers.facebook.com/docs/facebook-login/v2.2
         facebook:
-            client-id: xxx
-            client-secret: xxx
+            app-id: 374916739618624
+            app-secret: fa7478274a795a4cb1daed3a433859ff
 
         # see https://apps.twitter.com/app/
         twitter:
@@ -122,3 +122,9 @@ jhipster:
 # ===================================================================
 
 application:
+
+
+logging:
+    level:
+        guru.jhipster.brews.service: debug
+        guru.jhipster.brews.aop.logging: error
